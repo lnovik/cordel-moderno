@@ -10,9 +10,8 @@
   <a href="https://lnovik.github.io/site-android/">Acesse o site aqui</a>
 </h2>
 
-
 <h1 align= center>
 	<img 
-		src="https://media.giphy.com/media/5OAoHNvtUZzAeK4P2H/giphy.gif"
+		src="https://media.giphy.com/media/DR3f0CxSh5bgIYsGR5/giphy.gif"
 	/>
-</h1>
+</h1
