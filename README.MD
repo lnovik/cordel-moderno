@@ -7,7 +7,7 @@
 </h4>
 
  <h2 align="center">
-  <a href="https://lnovik.github.io/site-android/">Acesse o site aqui</a>
+  <a href="https://lnovik.github.io/cordel-moderno/">Acesse o site aqui</a>
 </h2>
 
 <h1 align= center>
